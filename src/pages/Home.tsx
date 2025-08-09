@@ -1,6 +1,6 @@
 
 import Moodinput from '@/components/Moodinput';
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import Moodoutput from '@/components/Moodoutput';
 
 function Home() {
